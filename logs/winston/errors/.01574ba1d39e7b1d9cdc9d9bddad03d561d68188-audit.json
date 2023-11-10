@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\.01574ba1d39e7b1d9cdc9d9bddad03d561d68188-audit.json",
+    "files": [
+        {
+            "date": 1699191633546,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-05-11-19-error.log",
+            "hash": "50ff2651fe75ad5d110fb00c281c96dbe280fe9c16addefcc80549440041befa"
+        },
+        {
+            "date": 1699192894394,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-05-11-20-error.log",
+            "hash": "7ed409fa8e6340f2c86564028ddc82e00887eee0eb32710cb113b366c8759a71"
+        },
+        {
+            "date": 1699202803888,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-05-11-22-error.log",
+            "hash": "8d5295e9b7a911e129ca875f9a4824ae6f7f3a94dfe26454079b35d63e0e9b4f"
+        },
+        {
+            "date": 1699203924581,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-05-11-23-error.log",
+            "hash": "674aeaf0c8661a3b9fabc0cb1ecd27b84b8d1890b286329d1a0b3eaa07ea5db5"
+        },
+        {
+            "date": 1699369718376,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-07-11-21-error.log",
+            "hash": "b770e8ba5a4b051e627c8b18b498e0318419e42fd49bbb3348c587aa3908a945"
+        },
+        {
+            "date": 1699458777207,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-08-11-21-error.log",
+            "hash": "c7134d3aa21f0ae9bf90e8209d6d2977c3cddf1acf59066bed98daff3d170591"
+        },
+        {
+            "date": 1699459406368,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-08-11-22-error.log",
+            "hash": "af7de9b493a348d7bdb508942b6bb796ec04014ef9478b303e5b82095a85380c"
+        },
+        {
+            "date": 1699546159678,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-09-11-22-error.log",
+            "hash": "60705ae6d8cb230b213def02d5bcb20cf776178f3849edcbbd18ea343a869265"
+        },
+        {
+            "date": 1699549201188,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-09-11-23-error.log",
+            "hash": "6d7c5d9f9bef1e5441286ef37395ea8ffb2e1dea27eaa01af9e1adb08c2806bb"
+        },
+        {
+            "date": 1699593801995,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-10-11-11-error.log",
+            "hash": "a5e242446321f1a95e2effdddba5776a4b9767a95d09719cbd13a0f5bd1d28a6"
+        },
+        {
+            "date": 1699605161544,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-10-11-14-error.log",
+            "hash": "b9bd3409330937aafa2ef0e4affaa885d2d3d5138294159d7430a9401f925503"
+        },
+        {
+            "date": 1699610684778,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-10-11-16-error.log",
+            "hash": "5a52135d064248ca8c3f445cffec35d7eef476e31df6d4d7af24bbbeb0f18161"
+        },
+        {
+            "date": 1699614106729,
+            "name": "C:\\Users\\murad\\OneDrive\\Desktop\\PH-lvl-2\\Mission-6 Be A SQL Superstar\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-10-11-17-error.log",
+            "hash": "06c3429d1dc0fce7b4b87f14a4318d3d25c1863ffd94ce26b55d6bcb3edc6030"
+        }
+    ],
+    "hashType": "sha256"
+}
