@@ -32,7 +32,13 @@ const updateFaculty = z.object({
     academicDepartmentId: z.string().optional(),
   }),
 });
+const courseFacultyAddRemove = z.object({
+  body: z.object({
+    faculties: z.array(z.string()),
+  }),
+});
 export const FacultyZodValidation = {
   createFaculty,
   updateFaculty,
+  courseFacultyAddRemove,
 };

@@ -21,4 +21,11 @@ router.post(
   FacultyController.insertIntoDb
 );
 
+router.post('/:id/assign-courses',validateRequest(FacultyZodValidation.courseFacultyAddRemove),auth(ENUM_USER_ROLE.SUPER_ADMIN, ENUM_USER_ROLE.ADMIN),  FacultyController.assignCourses);
+router.delete(
+  '/:id/remove-courses',
+  validateRequest(FacultyZodValidation.courseFacultyAddRemove),
+  FacultyController.removeCourses
+);
+
 export const FacultyRoutes = router;
